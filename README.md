@@ -11,3 +11,4 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 9.	Write a C program to search a number using Binary Search method 
 10.	Write a C program to implement Linked list operations
 11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
+12.	Write a C program to implement the application of Stack 
