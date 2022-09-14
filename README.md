@@ -12,3 +12,4 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 10.	Write a C program to implement Linked list operations
 11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
 12.	Write a C program to implement the application of Stack 
+13.	Write a C program to implement Queue operations such as ENQUEUE, DEQUEUE and Display 
