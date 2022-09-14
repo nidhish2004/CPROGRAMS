@@ -17,3 +17,5 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 15.	Write a C program to implement hashing using Linear Probing method
 16.	Write a C program to arrange a series of numbers using Insertion Sort 
 17.	Write a C program to arrange a series of numbers using Merge Sort
+18.	Write a C program to arrange a series of numbers using Quick Sort
+19.	Write a C program to implement Heap sort.
