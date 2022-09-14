@@ -16,3 +16,4 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 14.	Write a C program to implement the Tree Traversals (Inorder, Preorder, Postorder)
 15.	Write a C program to implement hashing using Linear Probing method
 16.	Write a C program to arrange a series of numbers using Insertion Sort 
+17.	Write a C program to arrange a series of numbers using Merge Sort
