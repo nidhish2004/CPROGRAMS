@@ -14,3 +14,4 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 12.	Write a C program to implement the application of Stack 
 13.	Write a C program to implement Queue operations such as ENQUEUE, DEQUEUE and Display 
 14.	Write a C program to implement the Tree Traversals (Inorder, Preorder, Postorder)
+15.	Write a C program to implement hashing using Linear Probing method
