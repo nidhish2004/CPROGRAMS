@@ -20,3 +20,4 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 18.	Write a C program to arrange a series of numbers using Quick Sort
 19.	Write a C program to implement Heap sort.
 21.	Write a C program to Graph traversal using Breadth First Search 
+22.	Write a C program to Graph traversal using Depth First Search
