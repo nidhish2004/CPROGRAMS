@@ -19,5 +19,9 @@ This Repository consists of C programs, that are needed for evaluation in Data S
 17.	Write a C program to arrange a series of numbers using Merge Sort
 18.	Write a C program to arrange a series of numbers using Quick Sort
 19.	Write a C program to implement Heap sort.
+20.	Write a program to perform the following operations:
+a) Insert an element into a AVL tree.
+b) Delete an element from a AVL tree.
+c) Search for a key element in a AVL tree.
 21.	Write a C program to Graph traversal using Breadth First Search 
 22.	Write a C program to Graph traversal using Depth First Search
