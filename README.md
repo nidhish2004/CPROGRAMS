@@ -25,3 +25,6 @@ b) Delete an element from a AVL tree.
 c) Search for a key element in a AVL tree.
 21.	Write a C program to Graph traversal using Breadth First Search 
 22.	Write a C program to Graph traversal using Depth First Search
+23.	Implementation of Shortest Path Algorithms using Dijkstra’s Algorithm
+24.	Implementation of Minimum Spanning Tree using Prim’s Algorithm
+25.	Implementation of Minimum Spanning Tree using Kruskal Algorithm 
